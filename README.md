@@ -6,15 +6,15 @@ I'm a Software Engineering Consultant with over 6 years of professional experien
 
 - 🌍 **ERP Specialist:** Extensive experience with CANIAS ERP, including managing complex projects such as MRP reporting with advanced features like reverse calculation.
 - 💻 **Full-Stack Developer:** Proficient in C#, ASP.NET, and JavaScript. Over the years, I've worked on multiple backend projects, delivering robust and scalable applications.
-- 🌱 **Continuous Learner:** I'm passionate about learning new technologies. Lately, I’ve been exploring **Microsoft Dynamics 365**, and looking into **AL Language** to further expand my skills.
+- 🌱 **Continuous Learner:** I'm passionate about learning new technologies. Lately, I’ve been exploring **Asp.Net Core** expand my skills.
 - 👩‍🏫 **Mentor & Collaborator:** I love mentoring junior developers and fostering teamwork through collaboration. I believe in the power of knowledge-sharing and always strive to uplift those around me.
 
 ## 🔨 Technologies & Tools
 
-- **Languages:** C#, JavaScript, AL, HTML, CSS, SQL
+- **Languages:** C#, JavaScript, Troai, HTML, CSS, SQL
 - **Frameworks:** ASP.NET, MVC
 - **Databases:** MS SQL, MySQL
-- **Tools:** Visual Studio, Git, Notion
+- **Tools:** Visual Studio, Git, Notion,Canias
 - **Cloud:** Azure (learning phase)
 
 ## 🌍 International Experience
@@ -23,7 +23,7 @@ My work has not only been local! I've had amazing opportunities to gain internat
 
 ## 🎯 Future Goals
 
-- 📈 I aim to transition into roles that focus on **Microsoft Dynamics 365** and **Business Central Development**, expanding my skill set to newer technologies.
+- 📈 I aim to transition into roles that focus on **Backend Dveloper** or **Full Stack Developer**, expanding my skill set to newer technologies.
 - 🤝 I'm excited about **freelance opportunities** and look forward to using my international exposure and expertise to offer high-quality services.
 
 ## 📫 How to Reach Me
