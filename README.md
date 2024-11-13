@@ -13,7 +13,7 @@ I'm a Software Engineering Consultant with over 6 years of professional experien
 
 - **Languages:** C#, JavaScript, Troai, HTML, CSS, SQL
 - **Frameworks:** ASP.NET, MVC
-- **Databases:** MS SQL, MySQL
+- **Databases:** MS SQL, MySQL,PostgreSql
 - **Tools:** Visual Studio, Git, Notion,Canias
 - **Cloud:** Azure (learning phase)
 
