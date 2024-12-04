@@ -23,7 +23,7 @@ My work has not only been local! I've had amazing opportunities to gain internat
 
 ## 🎯 Future Goals
 
-- 📈 I aim to transition into roles that focus on **Backend Dveloper** or **Full Stack Developer**, expanding my skill set to newer technologies.
+- 📈 I aim to transition into roles that focus on **Backend Developer** or **Full Stack Developer**, expanding my skill set to newer technologies.
 - 🤝 I'm excited about **freelance opportunities** and look forward to using my international exposure and expertise to offer high-quality services.
 
 ## 📫 How to Reach Me
