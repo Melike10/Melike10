@@ -5,7 +5,7 @@ I'm a Software Engineering Consultant with over 6 years of professional experien
 ## 👩‍💻 What I Do
 
 - 🌍 **ERP Specialist:** Extensive experience with CANIAS ERP, including managing complex projects such as MRP reporting with advanced features like reverse calculation.
-- 💻 **Full-Stack Developer:** Proficient in C#, ASP.NET, and JavaScript. Over the years, I've worked on multiple backend projects, delivering robust and scalable applications.
+- 💻 **Back-End Developer:** Proficient in C#, ASP.NET, and JavaScript. Over the years, I've worked on multiple backend projects, delivering robust and scalable applications.
 - 🌱 **Continuous Learner:** I'm passionate about learning new technologies. Lately, I’ve been exploring **Elastic Search**,**Rabbit Mq**, **Python**,**AI** expand my skills.
 - 👩‍🏫 **Mentor & Collaborator:** I love mentoring junior developers and fostering teamwork through collaboration. I believe in the power of knowledge-sharing and always strive to uplift those around me.
 
